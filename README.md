@@ -5,4 +5,4 @@
 
 ##NumPy入门部分
 * [NumPy数组基本操作——创建、索引、分片、改变维度](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%281%29%20numpy_array_basic1.ipynb)
-* [NumPy数组基本操作——组合、分割、属性、转换](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%281%29%20numpy_array_basic2.ipynb)
+* [NumPy数组基本操作——组合、分割、属性、转换](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%282%29%20numpy_array_basic2.ipynb)
