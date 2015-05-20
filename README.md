@@ -9,8 +9,8 @@
 * [NumPy常用函数——计算均值、最大最小值、中位数、方差](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%283%29common_functions1.ipynb)
 * [NumPy常用函数——股票分析例子学习numpy](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%284%29common_functions2%E2%80%94%E2%80%94stock_analysis.ipynb)
 * [NumPy便捷函数——相关性分析、多项式拟合等](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%285%29convenience_function.ipynb)
-* [通用函数](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%286%29universal_functions.ipynb)
-* [线性代数](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%287%29linear_algebra.ipynb)
+* [NumPy的矩阵和线性代数——矩阵基本使用、线性代数常用函数](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%286%29linear_algebra.ipynb)
+* [通用函数](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%287%29universal_functions.ipynb)
 * [NumPy的random模块——随机数、超几何分布、连续分布](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%288%29random_module.ipynb)
 
 ##Matplotlib绘图入门部分
