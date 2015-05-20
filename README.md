@@ -10,8 +10,9 @@
 * [NumPy常用函数——股票分析例子学习numpy](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%284%29common_functions2%E2%80%94%E2%80%94stock_analysis.ipynb)
 * [NumPy便捷函数——相关性分析、多项式拟合等](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%285%29convenience_function.ipynb)
 * [NumPy的矩阵和线性代数——矩阵基本使用、线性代数常用函数](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%286%29linear_algebra.ipynb)
-* [通用函数](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%287%29universal_functions.ipynb)
+* [NumPy通用函数——通用函数、算术运算、位操作和比较函数](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%287%29universal_functions.ipynb)
 * [NumPy的random模块——随机数、超几何分布、连续分布](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%288%29random_module.ipynb)
+* []()
 
 ##Matplotlib绘图入门部分
 * [绘图基础——绘制百度全年股价K线图、直方图、散点图、着色、图例](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Matplotlib/%281%29plot_base.ipynb)
