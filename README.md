@@ -13,6 +13,7 @@
 * [NumPy通用函数——通用函数、算术运算、位操作和比较函数](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%287%29universal_functions.ipynb)
 * [NumPy的random模块——随机数、超几何分布、连续分布](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%288%29random_module.ipynb)
 * [NumPy的排序与搜索](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%289%29sort_and_search.ipynb)
+* [NumPy断言函数](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%2810%29assert_function.ipynb)
 
 ##Matplotlib绘图入门部分
 * [绘图基础——绘制百度全年股价K线图、直方图、散点图、着色、图例](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Matplotlib/%281%29plot_base.ipynb)
