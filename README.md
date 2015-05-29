@@ -16,11 +16,11 @@
 * [NumPy断言函数](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/NumPy/%2810%29assert_function.ipynb)
 
 ##Matplotlib绘图入门部分
-* [绘图基础——绘制百度全年股价K线图、直方图、散点图、着色、图例](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Matplotlib/%281%29plot_base.ipynb)
-* [有趣绘图——动画、三维绘图、等高线图](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Matplotlib/%282%29interesting_plot.ipynb)
-* [特殊曲线——利萨如曲线、方波、锯齿波](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Matplotlib/%283%29special_curves_plot.ipynb)
+* [绘图基础——绘制百度全年股价K线图、直方图、散点图、着色、图例](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Visualization/%281%29plot_base.ipynb)
+* [有趣绘图——动画、三维绘图、等高线图](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Visualization/%282%29interesting_plot.ipynb)
+* [特殊曲线——利萨如曲线、方波、锯齿波](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Visualization/%283%29special_curves_plot.ipynb)
 * []()
 
 ##Scikit-learn机器学习库入门部分
 * [从iris数据集入门scikit-learn——介绍使用KNN方法和sklearn进行模型训练预测的一般流程](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Scikit-learn/%281%29getting_started_with_iris.ipynb)
-* []()
+* [介绍scikit-learn中如何进行模型参数的选择](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Scikit-learn/%282%29choose_a_ml_model.ipynb)
