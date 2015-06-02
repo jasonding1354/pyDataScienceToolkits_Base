@@ -24,3 +24,4 @@
 ##Scikit-learn机器学习库入门部分
 * [从iris数据集入门scikit-learn——介绍使用KNN方法和sklearn进行模型训练预测的一般流程](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Scikit-learn/%281%29getting_started_with_iris.ipynb)
 * [介绍scikit-learn中如何进行模型参数的选择](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Scikit-learn/%282%29choose_a_ml_model.ipynb)
+* [介绍使用scikit-learn线性回归模型进行回归问题预测和特征的选择](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Scikit-learn/%283%29linear_regression.ipynb)
