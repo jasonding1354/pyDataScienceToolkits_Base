@@ -25,3 +25,7 @@
 * [从iris数据集入门scikit-learn——介绍使用KNN方法和sklearn进行模型训练预测的一般流程](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Scikit-learn/%281%29getting_started_with_iris.ipynb)
 * [介绍scikit-learn中如何进行模型参数的选择](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Scikit-learn/%282%29choose_a_ml_model.ipynb)
 * [介绍使用scikit-learn线性回归模型进行回归问题预测和特征的选择](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Scikit-learn/%283%29linear_regression.ipynb)
+
+##Pandas数据分析处理入门
+* [Pandas的Series和DataFrame数据结构介绍](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Pandas/%281%29pandas_introduction.ipynb)
+* [Pandas的DataFrame的切片和选择操作](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Pandas/%282%29dataframe_slice_selection.ipynb)
