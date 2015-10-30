@@ -27,6 +27,10 @@
 * [介绍使用scikit-learn线性回归模型进行回归问题预测和特征的选择](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Scikit-learn/%283%29linear_regression.ipynb)
 * [介绍交叉验证及其用于参数选择、模型选择、特征选择的例子](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Scikit-learn/%284%29cross_validation.ipynb)
 * [介绍网格搜索来进行高效的参数调优](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Scikit-learn/%285%29grid_search.ipynb)
+<<<<<<< HEAD
+=======
+* [介绍评估分类器性能的度量，像混淆矩阵、ROC、AUC等]()
+>>>>>>> bf8cbcd69b01938aeee4949afdbde75d79ee9ff5
 
 ##Pandas数据分析处理入门
 * [Pandas的Series和DataFrame数据结构介绍](http://nbviewer.ipython.org/github/jasonding1354/pyDataScienceToolkits_Base/blob/master/Pandas/%281%29pandas_introduction.ipynb)
